@@ -1,0 +1,76 @@
+.headerMain{
+    font: roboto;
+    background: #1f2937;
+    color: white;
+    display: flex;
+    height: 360px;
+    font-size: 48px;
+    font-weight: 100;
+    justify-content: center;
+}
+
+.headerContainer2{
+    font: roboto;
+    background: #1f2937;
+    color: white;
+    height: 80px;
+    display:flex;
+    justify-content: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+    gap: 16px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.headerLogo{
+    font-size: 24px;
+    padding-right: 300px;
+    display: flex;
+}
+
+.headerLinks{
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    justify-self: end;
+}
+
+.mainText{
+    padding: 48px;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.mainText2{
+    display: flex;
+    width: 300px;
+}
+
+.headerSub{
+    display: flex;
+    width: 380px;
+    font-size: 18px;
+    font-weight: 10;
+    flex-wrap: 1;
+}
+
+.headerImg{
+    display: flex;
+    height: 250px;
+    width: auto;
+}
+
+.headerButton{
+    height: 32px;
+    width: 120px;
+    display: flex;
+}
